@@ -11,6 +11,6 @@ Install dependencies by using npm from the command line:
 
 # Running the Koans
 
-Run the tests with [Mocha](http://visionmedia.github.io/mocha/) on the command line:
+Run the tests with [Mocha](http://mochajs.org/) on the command line:
 
 	npm test
